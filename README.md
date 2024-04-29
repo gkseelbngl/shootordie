@@ -22,7 +22,7 @@ Uzaylıların tümünü yok ederek oyunu kazanın!
 
 ## Video Oynatma
 
-[Oynanış Videosu](link_to_youtube_video) - Oyunun oynanışını gösteren bir videoyu izleyin.
+[Oynanış Videosu](https://youtu.be/D1-KItxLb4Y) - Oyunun oynanışını gösteren bir videoyu izleyin.
 
 ---
 
