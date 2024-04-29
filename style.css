@@ -1,0 +1,64 @@
+/* Temel stil ayarları */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #222;
+    color: #a21a1a;
+}
+
+/* Başlangıç menüsü stilleri */
+#startMenu {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.7);
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(246, 0, 0, 0.3);
+}
+
+/* Başlangıç menüsü başlık stil ayarları */
+#startMenu h1 {
+    font-size: 36px;
+}
+
+/* Başlangıç menüsü paragraf stil ayarları */
+#startMenu p {
+    color: rgb(158, 158, 54);
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+/* Başlangıç butonu stil ayarları */
+#startButton {
+    font-size: 24px;
+    padding: 10px 20px;
+    background-color: #567957;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+/* Oyun alanı canvas stil ayarları */
+#gameCanvas {
+    display: none;
+}
+
+/* Oyun talimatları stil ayarları */
+#instructions {
+    color: #645d5d;
+    position: absolute;
+    top: 200px;
+    right: 20px;
+    font-size: 14px;
+}
+
+/* Oyun talimatları başlık stil ayarları */
+#instructions h2 {
+    color: #618262;
+    font-size: 20px;
+}
