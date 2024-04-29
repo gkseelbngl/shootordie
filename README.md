@@ -1,7 +1,8 @@
 # Shoot or Die!
 
-![Shoot or Die!](space_invaders_screenshot1.png)
-![Shoot or Die!](space_invaders_screenshot2.png)
+![Shoot or Die!](menu.png)
+![Shoot or Die!](oynanis1.png)
+![Shoot or Die!](oynanis2.png)
 
 Shoot or Die!, klasik bir atari oyunu olan Space Invaders'ın tarayıcı tabanlı farklı bir versiyonudur. Oyunu tarayıcınızda oynayabilir ve uzaylı istilacıları yok edebilirsiniz.
 
